@@ -325,7 +325,6 @@ section {
 
 .about-container .left-about p {
     line-height: 2rem;
-    padding: 1rem;
     color: var(--color-grey-1);
 }
 
@@ -756,6 +755,10 @@ section {
     transform: translate(-50%, -50%);
     font-weight: 800;
     font-size: 6.3rem;
+}
+
+.btn-cons {
+    margin-left: 1rem;
 }
 
 @media screen and (max-width: 600px) {
